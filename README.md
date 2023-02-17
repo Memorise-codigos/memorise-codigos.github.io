@@ -4,4 +4,4 @@
 ## [Git](https://guia-do-codigo.github.io/Git/)
 ![git.png](https://github.com/Memorise-codigos/Morise-codigo/blob/main/git.png)
 ## Python
-![python.png](https://github.com/Guia-do-codigo/Guia-do-codigo.github.io/blob/main/python.png?raw=true)
+![python.png](https://github.com/Memorise-codigos/Morise-codigo/blob/main/python.png?raw=true)

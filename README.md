@@ -3,5 +3,5 @@
 ## Escolha o que você quer ver primeiro
 ## [Git](https://memorise-codigos.github.io/Git/)
 ![git.png](https://github.com/Memorise-codigos/Morise-codigo/blob/main/git.png?raw=true)
-## Python
+## [Python](https://memorise-codigos.github.io/python/)
 ![python.png](https://github.com/Memorise-codigos/Morise-codigo/blob/main/python.png?raw=true)

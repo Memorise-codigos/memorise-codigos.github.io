@@ -3,3 +3,4 @@
 ## Escolha o que você quer ver primeiro
 - [Git](https://memorise-codigos.github.io/Git/)
 - [Python](https://memorise-codigos.github.io/python/)
+## Outras ferramentas do Memorisa códigos

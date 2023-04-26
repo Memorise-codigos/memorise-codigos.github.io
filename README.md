@@ -4,3 +4,4 @@
 - [Git](https://memorise-codigos.github.io/Git/)
 - [Python](https://memorise-codigos.github.io/python/)
 ## Outras ferramentas do Memorisa códigos
+- [Deposito de softwares](https://memorise-codigos.github.io/Deposito-de-apps-incrives/)

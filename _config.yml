@@ -1,12 +1,2 @@
 title: Memorise o código
-nav:
-- title: Home
-  url: /
-- title: Python
-  url: "https://memorise-codigos.github.io/python/"
-- title: Git
-  url: "https://memorise-codigos.github.io/Git/"
-- title: Terminal Zsh
-  url: "https://memorise-codigos.github.io/Linguagem-zsh/"
-favicon: "https://raw.githubusercontent.com/Memorise-codigos/memorise-codigos.github.io/main/favicon.ico"
 theme: minima

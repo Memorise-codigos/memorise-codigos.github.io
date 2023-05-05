@@ -1,4 +1,4 @@
-Base de conhecimento publico 2023
+Base de conhecimento público 2023
 # Memorise todos os códigos
 ### O site Memorise o código nasceu com o intuito de compartilhar o conhecimento de Git, Python e de diversas outras linguagens de código, já citados anteriormente.
 

@@ -1,12 +1,3 @@
 title: Memorise o código
 description: Compartilhando o conhecimento de Git, Python e outras linguagens de código
-nav:
-  - text: Git
-    url: https://memorise-codigos.github.io/Git/
-  - text: Python
-    url: https://memorise-codigos.github.io/python/
-  - text: Linguagem de terminal Zsh
-    url: https://memorise-codigos.github.io/Linguagem-zsh/
-  - text: Deposito de softwares
-    url: https://memorise-codigos.github.io/Deposito-de-apps-incrives/
 theme: minima

@@ -11,3 +11,7 @@ Base de conhecimento público 2023
 
 ## ⚙ Outras ferramentas do Memorisa códigos
 - [Deposito de softwares](https://memorise-codigos.github.io/Deposito-de-apps-incrives/)
+
+
+## Fale Conosco!
+![Canal no Telegram](https://t.me/memoriseocodugo)

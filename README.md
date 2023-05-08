@@ -14,4 +14,4 @@ Base de conhecimento público 2023
 
 
 ## Fale Conosco!
-![Canal no Telegram](https://t.me/memoriseocodugo)
+- [Canal no Telegram](https://t.me/memoriseocodugo)

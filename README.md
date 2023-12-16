@@ -10,7 +10,7 @@ Base de conhecimento público 2023
 - [Docker](https://memorise-codigos.github.io/Docker)
 
 
-## ⚙ Outras ferramentas do Memorisa códigos
+## ⚙ Outras ferramentas do Memorise o código
 - [Deposito de softwares](https://memorise-codigos.github.io/Deposito-de-apps-incrives/)
 
 

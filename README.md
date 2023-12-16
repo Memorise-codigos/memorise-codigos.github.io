@@ -7,6 +7,7 @@ Base de conhecimento público 2023
 - [Git](https://memorise-codigos.github.io/Git/)
 - [Python](https://memorise-codigos.github.io/python/)
 - [Linguagem de terminal Zsh](https://memorise-codigos.github.io/Linguagem-zsh/)
+- [Docker](https://memorise-codigos.github.io/Docker)
 
 
 ## ⚙ Outras ferramentas do Memorisa códigos

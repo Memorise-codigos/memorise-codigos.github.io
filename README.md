@@ -12,7 +12,7 @@ Base de conhecimento público 2023
 
 ## ⚙ Outras ferramentas do Memorise o código
 - [Deposito de softwares](https://memorise-codigos.github.io/Deposito-de-apps-incrives/)
-
+- Modelos IA para download
 
 ## Fale Conosco!
 - [Canal no Telegram](https://t.me/memoriseocodugo)
